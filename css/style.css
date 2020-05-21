@@ -1,3 +1,29 @@
 
 /* import fonts from fonts.css file*/
 @import url(./fonts.css);
+
+
+
+/* start navigation */
+
+.header_area.main-menu.navbar.navbar-brand{
+    padding: 0 2rem 0 5rem;
+}
+
+.header_area.main-menu.navbar{
+    padding: 1rem 20rem;
+}
+
+.header_area.main-menu.nav-item.nav-link{
+    font-family: 'Courier_Prime', monospace;
+    font-weight: 500;
+    color: black;
+
+}
+
+/* end navigation */
+
+.introduction_text{
+    font-family: "Courier_Prime", monospace;
+    color: #45b554;
+}

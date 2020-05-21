@@ -3,7 +3,6 @@
 /* @font-face */
 
 @font-face{
-    font-family: "Roboto_Slab";
-    src:'../fonts/static/RobotoSlab-Regular.ttf';
-    
+    font-family: "Courier_Prime";
+    src: '../fonts/Courier_Prime/CourierPrime-Regular.ttf'  
 }
