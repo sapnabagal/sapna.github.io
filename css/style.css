@@ -15,7 +15,7 @@
 }
 
 .header_area.main-menu.nav-item.nav-link{
-    font-family: 'Courier_Prime', monospace;
+    font-family: "Courier_Prime", monospace;
     font-weight: 500;
     color: black;
 
@@ -24,6 +24,7 @@
 /* end navigation */
 
 .introduction_text{
+    padding: 1rem 20rem;
     font-family: "Courier_Prime", monospace;
     color: #45b554;
 }
